@@ -2,10 +2,13 @@
 
 <h4 align="center">
   <a href="">Medium Article</a> |
+  <a href="">Link Tree</a> |
   <a href="">Demo</a>
 </h4>
 
-👷 A modular tutorial that takes you from theory to practice step-by-step. Practice questions and food for thought included. Built using NextJS, Apibara, Alchemy, MongoDB, Starknet Foundry, Cairo and Typescript.
+📝 A modular tutorial that takes you from theory to practice step-by-step. Practice questions and food for thought included. 
+
+👷 Built using NextJS, Apibara, Alchemy, MongoDB, Starknet Foundry, Cairo and Typescript.
 
 ## Contributions
 

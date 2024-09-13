@@ -14,7 +14,7 @@
 - 🗃️ **Part 2**: Blockchain Data: Call Data, Blobs, Indexers, Oracles, RPCs 
 - 📈 **Part 3**: Constant Product Market Maker (AMM): Swaps, Routes, Slippage 
 - 🚂 **Part 4**: Engineering: Smart Contracts, Execution Engines, Applications
-- 
+  
 ## Contributions
 
 Blockchain technology changes fast, and Cairo is no exception. Over time, this tutorial may require upgrades to syntax, structure and the set of packages used. 

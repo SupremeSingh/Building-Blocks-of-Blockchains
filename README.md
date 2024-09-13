@@ -10,6 +10,11 @@
 
 👷 Built using NextJS, Apibara, Alchemy, MongoDB, Starknet Foundry, Cairo and Typescript.
 
+- 🧮 **Part 1**: Basic Mathematics: Algebra and Mechanisms 
+- 🗃️ **Part 2**: Blockchain Data: CallData, Blocs, Indexers, Oracles and RPCs 
+- 📈 **Part 3**: Constant Product Market Maker (AMM): Swaps, Routes, Slippage 
+- 🚂 **Part 4**: Optimizations: Security, Execution Engines and What Arbitrage Means 
+
 ## Contributions
 
 Blockchain technology changes fast, and Cairo is no exception. Over time, this tutorial may require upgrades to syntax, structure and the set of packages used. 

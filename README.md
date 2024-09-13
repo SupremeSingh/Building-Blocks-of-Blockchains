@@ -6,7 +6,7 @@
   <a href="">Demo</a>
 </h4>
 
-📝 A modular tutorial that takes you from theory to practice step-by-step. Practice questions and food for thought included. 
+📝 A modular tutorial on the building blocks of blockchains, built using Cairo and Starknet. This tutorial takes you from theory to practice step-by-step. Practice questions and food for thought included. 
 
 👷 Built using NextJS, Apibara, Alchemy, MongoDB, Starknet Foundry, Cairo and Typescript.
 
